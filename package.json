@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  },
+
+"scripts": {
+  "test": "nodemon checkpoint-express-js-main",
+  "malek": "nodemon checkpoint-express-js-main.js"
+}
+}
